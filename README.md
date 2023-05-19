@@ -1,4 +1,4 @@
-# NLP-Review-clasiification-using-LSTM
+# [NLP]-Review-clasiification-using-LSTM
 
 #Problem statement- Conventional optimization functions such as the grid search method and Bayesian optimization method take a lot of time to optimize the hyperparameters of the LSTM model. this is primarily because it takes a lot of time to perform the test of accuracy for each architecture and for each learning rate value for a given architecture. This Project presents a very simple but powerful technique to optimize the hyperparameters in a much shorter time.
 
